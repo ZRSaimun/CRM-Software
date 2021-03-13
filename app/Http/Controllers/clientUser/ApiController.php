@@ -15,6 +15,7 @@ class ApiController extends Controller
         return response($transaction, 200);
     }
 
+    
     public function getAllTransactions(Request $req)
     {
         // logic to get all Transactions goes here
