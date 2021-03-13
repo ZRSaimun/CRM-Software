@@ -1,2 +1,2 @@
-# Customer Relationship Management (CRM) Software
+# Customer Relationship Management Software
 Laravel
